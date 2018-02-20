@@ -1,0 +1,8 @@
+ h2 {
+	text-align:center;
+
+}
+#input-field{
+	display: flex;
+	justify-content: center;
+}
